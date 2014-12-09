@@ -1,3 +1,8 @@
+
+This fork lifts the version restriction `< 3.3` on sass for the `4-0-stable` branch.
+
+
+
 # Official Ruby-on-Rails Integration with Sass
 
 This gem provides official integration for Ruby on Rails projects with the Sass stylesheet language.
